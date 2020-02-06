@@ -1,0 +1,1 @@
+minerd --url=http://127.0.0.1:11115 --userpass=dalecoinrpc:AoHFm2bxd7scLzH3cd7fm9fMuNWXJomiWA4HCujKTkck
